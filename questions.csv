@@ -1,0 +1,4 @@
+question,option1,option2,option3,option4,correct
+p5.js 中用來畫一個圓形的函數是什麼？,circle(),rect(),ellipse(),drawCircle(),ellipse()
+哪一個函數會在畫面上不斷重複執行，更新畫面內容？,setup(),refresh(),loop(),draw(),draw()
+這段程式碼中，哪一個功能是 preload() 的作用,建立畫布,載入 CSV 檔案的題目資料,顯示答對題數,顯示題目選項,載入 CSV 檔案的題目資料
